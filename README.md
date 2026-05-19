@@ -127,4 +127,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 🙌 Author
 
 Hemraj Niroula
-Aspiring Data Scientist | Machine Learning Enthusiast
